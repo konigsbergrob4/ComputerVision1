@@ -12,8 +12,7 @@ For submission, I included the following: <br />
 > left.png - photo of Heath Ledger normally <br />
 > right.png - photo of the Joker from Batman (Heath Ledger with makeup on) <br >
 > hybrid.png - hybrid image constructed from left.png and right.png <br />
-> hybrid.py - pythod code used to construct the hybrid image <br />
-> gui.png - shows what the provided GUI looks like with all paramters outlined below <br /> 
+> Note: hybrid.py does not appear to be a submission requirement for the artifact on CMSX. Included in the prior Friday's submission. 
 
 ## Relevant Information for creating the hybrid image
 Left image: 
